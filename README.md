@@ -1,6 +1,6 @@
 👋 Hi, I’m @mohseenHamid
-👀 I’m interested in frontend development and design
-🌱 I’m currently learning React
+👀 I’m interested in frontend development, design and data analysis
+🌱 I’m currently learning React and Python
 
 <!---
 mohseenHamid/mohseenHamid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
